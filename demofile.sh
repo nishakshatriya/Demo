@@ -2,4 +2,4 @@
 
 echo "Hello World Nisha"
 
-echo "learning shell"
+echo "learning shell scripting"
