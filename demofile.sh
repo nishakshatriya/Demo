@@ -1,5 +1,5 @@
 #!/bin/bash/ -x
 
-echo "Hello World Nisha Kshatriyaxsjsjsdjasojkalkksx"
+echo "Hello World Nisha"
 echo "learning shell scriptingjsjhsjk"
 
